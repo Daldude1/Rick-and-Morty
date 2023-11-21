@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="./img/logo.png" width="100" height="100" alt="Rick & Morty logo">
-</p>
-
 # Rick & Morty Character Extraction
 
 👽 This website allows you to view and search for characters from the popular animated TV show Rick & Morty. Check it out here: https://daldude1.github.io/Rick-and-Morty/
@@ -18,7 +14,7 @@
 
 ## Technologies Used
 
-🛠️ This website was built using HTML, CSS, and JavaScript.
+🛠️ This website was built using React.
 
 🔍 The character data was obtained from the Rick & Morty API (https://rickandmortyapi.com/).
 
