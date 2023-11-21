@@ -1,4 +1,4 @@
-![](./img/logo.png | width=100)
+![](./img/logo.png =250x250)
 
 # Rick & Morty Character Extraction
 
