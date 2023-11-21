@@ -1,8 +1,10 @@
-![Alt text](image.png)
+![Alt text](./img/logo.png)
 
 # Rick & Morty Character Extraction
 
 👽 This website allows you to view and search for characters from the popular animated TV show Rick & Morty. Check it out here: https://daldude1.github.io/Rick-and-Morty/
+
+![Alt text](./img/web.png)
 
 ## Features
 
